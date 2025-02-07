@@ -161,7 +161,7 @@ unsigned int keyboard_decode(unsigned int c) {
             }
 
             if (ctrl_pressed) {
-        
+         //jsbjdkssasd
             }
     
             if (alt_pressed) {
